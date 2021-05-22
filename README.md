@@ -15,5 +15,5 @@ data base
 -------
 mysql
 
-modelado bd v1
-![](https://github.com/PerfeccionDigital/subot/blob/main/draft.png)
+modelado bd v2
+![](https://github.com/PerfeccionDigital/subot/blob/main/database_modeling_subot.png)
