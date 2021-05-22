@@ -2,18 +2,20 @@
 
 aplicacion movil para gestionar tus suscripciones
 
-app
+App
 -------
-flutter
+Flutter
 
 
-backend
+Backend
 -------
-php
+PHP
+Eloquent ORM
+Slim Framework
 
-data base
+Data Base
 -------
-mysql
+Mariadb
 
 modelado bd v2
 ![](https://github.com/PerfeccionDigital/subot/blob/main/database_modeling_subot.png)
